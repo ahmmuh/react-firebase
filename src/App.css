@@ -1,0 +1,12 @@
+*{
+  padding: 0;
+  margin: 0;
+
+}
+
+.navbar a{
+  color: #fff !important;
+  font-weight: 300;
+  font-style: italic !important;
+  font-size: 22px !important;
+}
